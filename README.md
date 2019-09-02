@@ -3,6 +3,7 @@ Template zabbix check site using whois command
 
 ## Initial Instructions
 
+Import the template file 
 
 Acessar o Servidor com Ansible instalado via SSH e entrar no diretório onde está o projeto(`/etc/ansible/vsftpdce7/`).
 
@@ -17,7 +18,7 @@ Acessar o Servidor com Ansible instalado via SSH e entrar no diretório onde est
 
 ## Autor
 
-// * **André Freitas** - *Github* - [joelcpinheiro](https://github.com/joelcpinheiro) 
+/ ***André Freitas** - *Github* - [andrefreitas](https://github.com/joelcpinheiro) 
 
 
 ## License
