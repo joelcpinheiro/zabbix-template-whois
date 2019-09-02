@@ -1,2 +1,4 @@
 # zabbix-template-whois
-Check whois site
+Template zabbix check site using whois command
+
+
