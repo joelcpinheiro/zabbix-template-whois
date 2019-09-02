@@ -1,13 +1,13 @@
-# zabbix-template-whois
+# Zabbix Template Whois
 Template zabbix check site using whois command
 
 ## Initial Instructions
 
-Import the template file 
-
-Acessar o Servidor com Ansible instalado via SSH e entrar no diretório onde está o projeto(`/etc/ansible/vsftpdce7/`).
+1. Import the template file Template_Whois.xml in your Zabbix Server;
+2. 
 
 ### Pre-requisites
+
 
 
 **OBS**: Após instalado você pode utilizar um cliente FTP para validar o acesso ao Servidor via FTP.
