@@ -17,7 +17,7 @@ Acessar o Servidor com Ansible instalado via SSH e entrar no diretório onde est
 
 ## Autor
 
-/* * **André Freitas** - *Github* - [joelcpinheiro](https://github.com/joelcpinheiro) */
+// * **André Freitas** - *Github* - [joelcpinheiro](https://github.com/joelcpinheiro) 
 
 
 ## License
