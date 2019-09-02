@@ -1,5 +1,5 @@
 # Zabbix Template Whois
-Template zabbix check site using whois command
+Template zabbix check site using external verification
 
 ## Initial Instructions
 
@@ -11,7 +11,7 @@ In Zabbix Server, check the data on Monitoring > Recent Data and filter the host
 
 ### Pre-requisites
 
-Install the whois command in your Zabbix Server
+Install the whois command in your Zabbix Server before add a template.
 
 
 **OBS**: No observations.
