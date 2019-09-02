@@ -8,20 +8,21 @@ Template zabbix check site using whois command
 
 ### Pre-requisites
 
+Install the whois command in your Zabbix Server
 
 
-**OBS**: Após instalado você pode utilizar um cliente FTP para validar o acesso ao Servidor via FTP.
+**OBS**: No observations.
 
-## Versão
+## Version
 
 1.0
 
 ## Autor
 
-/ ***André Freitas** - *Github* - [andrefreitas](https://github.com/joelcpinheiro) 
+ ***André Freitas** - *Github* - ? 
 
 
 ## License
 
-Use onde achar que irá contribuir :)
+Use where you think you will contribute :)
 
