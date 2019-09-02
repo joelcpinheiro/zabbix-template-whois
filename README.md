@@ -30,5 +30,5 @@ The chief networks enginner and python developer, André Freitas, thank you very
 
 ## License
 
-Use where you think you will contribute :)
+Use where you think you will contribute.
 
