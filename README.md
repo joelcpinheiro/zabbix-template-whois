@@ -24,7 +24,7 @@ Install the whois command in your Zabbix Server before add a template.
 
  ***Joel Pinheiro** - *Github* - https://github.com/joelcpinheiro/
 
-## Credits for the script:
+## Credits for the script(domain.py):
 
 The chief networks enginner and developer, André Freitas, thank you very much :)
 
