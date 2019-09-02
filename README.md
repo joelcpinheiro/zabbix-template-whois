@@ -1,5 +1,5 @@
 # Zabbix Template Whois
-Template zabbix check site using external verification
+Template zabbix check domain using external verification.
 
 ## Initial Instructions
 
