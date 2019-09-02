@@ -14,7 +14,7 @@ In Zabbix Server, check the data on Monitoring > Recent Data and filter the host
 Install the whois command in your Zabbix Server before add a template.
 
 
-**OBS**: No observations.
+**OBS**: Tested on Zabbix Server 4.0 LTS, but will work on any version.
 
 ## Version
 
