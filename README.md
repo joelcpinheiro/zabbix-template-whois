@@ -4,7 +4,7 @@ Template zabbix check site using whois command
 ## Initial Instructions
 
 1. Import the template file Template_Whois.xml in your Zabbix Server;
-2. 
+2. Upload the file domain.py on directory /usr/lib/zabbix/externalscripts/
 
 ### Pre-requisites
 
