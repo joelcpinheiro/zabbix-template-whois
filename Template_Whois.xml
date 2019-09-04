@@ -19,7 +19,7 @@
             </groups>
             <applications>
                 <application>
-                    <name>ICMP</name>
+                    <name>Check</name>
                 </application>
             </applications>
             <items>
@@ -55,7 +55,7 @@
                     <inventory_link>63</inventory_link>
                     <applications>
                         <application>
-                            <name>ICMP</name>
+                            <name>Check</name>
                         </application>
                     </applications>
                     <valuemap/>
